@@ -19,7 +19,8 @@
 - **Tools**: Git, Docker, Jupyter Notebooks
 
 ## 📂 Featured Projects
-- **Project 1: Airbnb - Seville (**soon**)**: EDA project aiming to analyze short-term rental data to uncover insights and trends.
+- **Project 1: Airbnb - Seville**: EDA project aiming to analyze short-term rental data to uncover insights and trends. <a href="[https://github.com/andrealopezpuertas/EDA_AccommodationCompany](https://github.com/andrealopezpuertas/EDA_AccommodationCompany)">
+  <img src="https://badgen.net/badge/GitHub/Airbnb/blue" alt="GitHub Airbnb"></a>
 - **Project 2: BMW (**soon**)**: EDA & Visualization project about a BMW dataset.
 
 ## 🎓 Education
