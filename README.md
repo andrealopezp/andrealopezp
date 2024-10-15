@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">✨ Welcome to my profile, I'm <a href="https://www.linkedin.com/in/andrealopezpuertas">Andrea</a>! ✨</h1>
+  <h1 align="center">✨ Welcome to my profile, I'm <a href="https://www.linkedin.com/in/andrealopezp">Andrea</a>! ✨</h1>
 </div>
 
 ![Banner](https://github.com/andrealopezpuertas/andrealopezpuertas/raw/main/ALP_Banner.png)
