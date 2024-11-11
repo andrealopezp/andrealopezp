@@ -25,8 +25,8 @@ Feel free to connect with me. 😊
 ## 📂 Featured Projects
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Airbnb Market Trends</h3>
+<td width="50%" style="vertical-align: middle; text-align: center;">
+<h3 align="center">Airbnb Market Trends Analysis</h3>
 <div align="center">
 <a href="https://github.com/andrealopezp/EDA_Visualization_Accommodation" target="_blank"><img src="https://a0.muscache.com/im/pictures/81dca5d6-5a86-49bc-8eca-4a8610a07d27.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Hospitality Exploratory Data Analysis"></a>
 <p>
@@ -38,3 +38,20 @@ Feel free to connect with me. 😊
 </div>
                                                                                       
 </td>
+
+<td width="50%">
+<h3 align="center">Understanding the Value of BMWs Dashboard</h3>
+<div align="center">                                       
+<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/Dashboard" target="_blank"><img src="https://t3.ftcdn.net/jpg/04/97/07/28/360_F_497072881_8m6R10ub4asAGBdV86zsLLXv1LdYO6UU.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Vehicle - Exploratory Data Analysis"></a>
+<p>
+<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/Dashboard" target="_blank">
+<img src="https://img.shields.io/badge/DASHBOARD-3498db?style=for-the-badge&logo=tableau&logoColor=black">
+</a>
+</p>
+</p><strong>Extract insights from used BMW cars with auction data</strong> – After preparing and analyzing the data from a 2018 BMW auction, you will find an interactive dashboard (Tableau Public) that visually presents the key findings. This dashboard allows stakeholders to easily explore insights that can help improve sales decisions and optimize the auction process.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<br>
