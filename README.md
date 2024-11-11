@@ -2,13 +2,17 @@
   <h1 align="center">✨ Welcome to my profile, I'm <a href="https://www.linkedin.com/in/andrealopezp">Andrea</a>! ✨</h1>
 </div>
 
-![Banner](https://github.com/andrealopezpuertas/andrealopezpuertas/raw/main/ALP_Banner.png)
-
 ## ✍🏻 About Me 
 - 👩🏻‍🎓 I’m currently pursuing a Marter's degree in Data Science & AI.
-- 🚀 Aspiring Data Scientist with a passion for Data Analysis and Machine Learning.
+- 🚀 Aspiring Data Analyst with a passion for Data Science and Machine Learning.
 - 💼 Looking for opportunities to apply data-driven solutions and insights.
-- 🗺️ Languages: **Spanish, English** and I'm learning **Portuguese**.
+
+## 🌐 Connect with Me
+Thanks for visiting my profile! Feel free to connect with me. 😊
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrealopezpuertas@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrealopezp)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/andrealopezp/vizzes)
 
 ## 💻 Tech Stack
 - **Programming Languages**: Python, SQL
@@ -19,16 +23,18 @@
 - **Tools**: Git, Docker, Jupyter Notebooks
 
 ## 📂 Featured Projects
-- **Project 1: Airbnb - Seville**: EDA project aiming to analyze short-term rental data to uncover insights and trends. <a href="https://github.com/andrealopezpuertas/EDA_AccommodationCompany">
-  <img src="https://badgen.net/badge/GitHub/Airbnb/blue" alt="GitHub Airbnb"></a>
-- **Project 2: BMW (**soon**)**: EDA & Visualization project about a BMW dataset.
-
-## 🎓 Education
-- **Master’s in Data Science & AI**, Nuclio Digital School (2024)
-
-## 🌐 Connect with Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrealopezpuertas@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrealopezp)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/andrealopezp/vizzes)
-
-Thanks for visiting my profile! Feel free to connect with me. 😊
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Hospitality (EDA with Python)</h3>
+<div align="center">
+<a href="https://github.com/andrealopezp/EDA_AccommodationCompany" target="_blank"><img src="https://a0.muscache.com/im/pictures/81dca5d6-5a86-49bc-8eca-4a8610a07d27.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Hospitality Exploratory Data Analysis"></a>
+<p>
+<a href="https://github.com/andrealopezp/EDA_AccommodationCompany/blob/main/EDA_accommodation.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-e74c3c?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p><strong>Explore the tourist rental market in Seville through detailed data analysis</strong> – In this project you will analyze an Airbnb data set with information on prices, room types, availability and more. Uncover key patterns such as the limited influence of location on prices, tourists' preferences for entire apartments, and opportunities to optimize pricing strategies.</p>
+</div>
+                                                                                      
+</td>
