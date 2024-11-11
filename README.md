@@ -26,7 +26,7 @@ Feel free to connect with me. 😊
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Hospitality (EDA with Python)</h3>
+<h3 align="center">Airbnb Market Trends</h3>
 <div align="center">
 <a href="https://github.com/andrealopezp/EDA_Visualization_Accommodation" target="_blank"><img src="https://a0.muscache.com/im/pictures/81dca5d6-5a86-49bc-8eca-4a8610a07d27.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Hospitality Exploratory Data Analysis"></a>
 <p>
