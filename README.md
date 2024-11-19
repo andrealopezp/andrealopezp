@@ -42,9 +42,9 @@ Feel free to connect with me. 😊
 <td width="50%">
 <h3 align="center">Understanding the Value of BMWs Dashboard</h3>
 <div align="center">                                       
-<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/Dashboard" target="_blank"><img src="https://t3.ftcdn.net/jpg/04/97/07/28/360_F_497072881_8m6R10ub4asAGBdV86zsLLXv1LdYO6UU.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Vehicle - Exploratory Data Analysis"></a>
+<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/DashboardIntro" target="_blank"><img src="https://t3.ftcdn.net/jpg/04/97/07/28/360_F_497072881_8m6R10ub4asAGBdV86zsLLXv1LdYO6UU.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Vehicle - Exploratory Data Analysis"></a>
 <p>
-<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/Dashboard" target="_blank">
+<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/DashboardIntro" target="_blank">
 <img src="https://img.shields.io/badge/DASHBOARD-3498db?style=for-the-badge&logo=tableau&logoColor=black">
 </a>
 </p>
