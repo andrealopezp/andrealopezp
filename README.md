@@ -22,7 +22,42 @@ Feel free to connect with me. 😊
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrealopezp)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/andrealopezp/vizzes)
 
-## 📂 Featured Projects
+## 📂 Stakeholder Projects
+<table>
+<tr>
+<td width="50%" style="vertical-align: middle; text-align: center;">
+<h3 align="center">Understanding the Value of BMWs</h3>
+<div align="center">                                       
+<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/DashboardIntro" target="_blank"><img src="https://t3.ftcdn.net/jpg/04/97/07/28/360_F_497072881_8m6R10ub4asAGBdV86zsLLXv1LdYO6UU.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Vehicle - Exploratory Data Analysis"></a>
+<p>
+<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/DashboardIntro" target="_blank">
+<img src="https://img.shields.io/badge/DASHBOARD-3498db?style=for-the-badge&logo=tableau&logoColor=black">
+</a>
+</p>
+</p><strong>Extract insights from used BMW cars with auction data</strong> – After preparing and analyzing the data from a 2018 BMW auction, you will find an interactive dashboard (Tableau Public) that visually presents the key findings. This dashboard allows stakeholders to easily explore insights that can help improve sales decisions and optimize the auction process.</p>
+</div>                                                                                      
+</td>
+
+<td width="50%" style="vertical-align: middle; text-align: center;">
+<h3 align="center">Customer Segmentation & Propensity Model</h3>
+<div align="center">                                       
+<a href="..." target="_blank"><img src="https://22036085.fs1.hubspotusercontent-na1.net/hubfs/22036085/Imported_Blog_Media/Digital-Banking-The-Surging-Importance-of-CX-scaled.jpg" style="width: 400px; height: 300px; object-fit: cover; alt="Customer Segmentation & Purchase Propensity Model"></a>
+<p>
+<a href="https://github.com/andrealopezp/..." target="_blank">
+<img src="https://img.shields.io/badge/CODE-green?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://www.linkedin.com/in/andrealopezp" target="_blank">
+<img src="https://img.shields.io/badge/REQUEST%20FULL%20CODE-green?style=for-the-badge&logo=linkedin&logoColor=black">
+</a>
+</p>
+<p><strong>Explore customer behaviour on an online bank</strong> - You will uncover insights through <strong>data cleaning</strong>, <strong>customer segmentation</strong>, and a purchase propensity model. This project culminates in proposing targeted marketing strategies to help the company maximize its customer base and drive profitability.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<br>
+
+## 📂 Personal Projects
 <table>
 <tr>
 <td width="50%" style="vertical-align: middle; text-align: center;">
@@ -38,20 +73,6 @@ Feel free to connect with me. 😊
 </div>
                                                                                       
 </td>
-
-<td width="50%">
-<h3 align="center">Understanding the Value of BMWs Dashboard</h3>
-<div align="center">                                       
-<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/DashboardIntro" target="_blank"><img src="https://t3.ftcdn.net/jpg/04/97/07/28/360_F_497072881_8m6R10ub4asAGBdV86zsLLXv1LdYO6UU.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Vehicle - Exploratory Data Analysis"></a>
-<p>
-<a href="https://public.tableau.com/app/profile/andrealopezp/viz/VehicleCompany/DashboardIntro" target="_blank">
-<img src="https://img.shields.io/badge/DASHBOARD-3498db?style=for-the-badge&logo=tableau&logoColor=black">
-</a>
-</p>
-</p><strong>Extract insights from used BMW cars with auction data</strong> – After preparing and analyzing the data from a 2018 BMW auction, you will find an interactive dashboard (Tableau Public) that visually presents the key findings. This dashboard allows stakeholders to easily explore insights that can help improve sales decisions and optimize the auction process.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
+                                                                                                                                   
+</table>
 <br>
