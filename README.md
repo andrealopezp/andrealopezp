@@ -3,7 +3,7 @@
 </div>
 
 ## ✍🏻 About Me 
-- 👩🏻‍🎓 I’m currently pursuing a Marter's degree in Data Science & AI.
+- 👩🏻‍🎓 I’m currently pursuing a Master's degree in Data Science & AI.
 - 🚀 Aspiring Data Analyst with a passion for Data Science and Machine Learning.
 - 💼 Looking for opportunities to apply data-driven solutions and insights.
 
@@ -28,9 +28,9 @@ Feel free to connect with me. 😊
 <td width="50%" style="vertical-align: middle; text-align: center;">
 <h3 align="center">Airbnb Market Trends Analysis</h3>
 <div align="center">
-<a href="https://github.com/andrealopezp/EDA_Visualization_Accommodation" target="_blank"><img src="https://a0.muscache.com/im/pictures/81dca5d6-5a86-49bc-8eca-4a8610a07d27.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Hospitality Exploratory Data Analysis"></a>
+<a href="https://github.com/andrealopezp/AccommodationAnalysis" target="_blank"><img src="https://a0.muscache.com/im/pictures/81dca5d6-5a86-49bc-8eca-4a8610a07d27.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Hospitality Exploratory Data Analysis"></a>
 <p>
-<a href="https://github.com/andrealopezp/EDA_Visualization_Accommodation/blob/main/EDA_accommodation.ipynb" target="_blank">
+<a href="https://github.com/andrealopezp/AccommodationAnalysis/blob/main/EDA_accommodation.ipynb" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-e74c3c?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
