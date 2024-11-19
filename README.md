@@ -39,7 +39,7 @@ Feel free to connect with me. 😊
 </td>
 
 <td width="50%" style="vertical-align: middle; text-align: center;">
-<h3 align="center">Customer Segmentation & Propensity Model</h3>
+<h3 align="center">Data Cleaning & Segmentation in Banking</h3>
 <div align="center">                                       
 <a href="..." target="_blank"><img src="https://22036085.fs1.hubspotusercontent-na1.net/hubfs/22036085/Imported_Blog_Media/Digital-Banking-The-Surging-Importance-of-CX-scaled.jpg" style="width: 400px; height: 300px; object-fit: cover; alt="Customer Segmentation & Purchase Propensity Model"></a>
 <p>
