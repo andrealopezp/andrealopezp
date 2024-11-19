@@ -34,7 +34,7 @@ Feel free to connect with me. 😊
 <img src="https://img.shields.io/badge/DASHBOARD-3498db?style=for-the-badge&logo=tableau&logoColor=black">
 </a>
 </p>
-</p><strong>Extract insights from used BMW cars with auction data</strong> – After preparing and analyzing the data from a 2018 BMW auction, you will find an interactive dashboard (Tableau Public) that visually presents the key findings. This dashboard allows stakeholders to easily explore insights that can help improve sales decisions and optimize the auction process.</p>
+</p><strong>Extract insights from used BMW cars</strong> – After preparing and analyzing the data from a 2018 BMW auction, you will find an <strong>interactive dashboard</strong> (in Tableau) that visually presents the key findings. It allows stakeholders to easily explore insights that can help improve sales decisions and optimize the auction process.</p>
 </div>                                                                                      
 </td>
 
@@ -43,7 +43,7 @@ Feel free to connect with me. 😊
 <div align="center">                                       
 <a href="..." target="_blank"><img src="https://22036085.fs1.hubspotusercontent-na1.net/hubfs/22036085/Imported_Blog_Media/Digital-Banking-The-Surging-Importance-of-CX-scaled.jpg" style="width: 400px; height: 300px; object-fit: cover; alt="Customer Segmentation & Purchase Propensity Model"></a>
 <p>
-<a href="https://github.com/andrealopezp/..." target="_blank">
+<a href="..." target="_blank">
 <img src="https://img.shields.io/badge/CODE-green?style=for-the-badge&logo=github&logoColor=black">
 <a href="https://www.linkedin.com/in/andrealopezp" target="_blank">
 <img src="https://img.shields.io/badge/REQUEST%20FULL%20CODE-green?style=for-the-badge&logo=linkedin&logoColor=black">
@@ -66,7 +66,7 @@ Feel free to connect with me. 😊
 <a href="https://github.com/andrealopezp/AccommodationAnalysis" target="_blank"><img src="https://a0.muscache.com/im/pictures/81dca5d6-5a86-49bc-8eca-4a8610a07d27.jpg" style="width: 400px; height: 300px; object-fit: cover;" alt="Hospitality Exploratory Data Analysis"></a>
 <p>
 <a href="https://github.com/andrealopezp/AccommodationAnalysis/blob/main/EDA_accommodation.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-e74c3c?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-e74c3c?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p><strong>Explore the tourist rental market in Seville through detailed data analysis</strong> – In this project you will analyze an Airbnb data set with information on prices, room types, availability and more. Uncover key patterns such as the limited influence of location on prices, tourists' preferences for entire apartments, and opportunities to optimize pricing strategies.</p>
