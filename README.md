@@ -44,9 +44,9 @@ Feel free to connect with me. 😊
 <a href="https://github.com/andrealopezp/BankAnalysis" target="_blank"><img src="https://22036085.fs1.hubspotusercontent-na1.net/hubfs/22036085/Imported_Blog_Media/Digital-Banking-The-Surging-Importance-of-CX-scaled.jpg" style="width: 400px; height: 300px; object-fit: cover; alt="Customer Segmentation & Purchase Propensity Model"></a>
 <p>
 <a href="https://github.com/andrealopezp/BankAnalysis/blob/main/Bank_EDA.ipynb" target="_blank">
-<img src="https://img.shields.io/badge/CODE-green?style=for-the-badge&logo=github&logoColor=black">
-<a href="https://www.linkedin.com/in/andrealopezp" target="_blank">
-<img src="https://img.shields.io/badge/REQUEST%20FULL%20CODE-green?style=for-the-badge&logo=linkedin&logoColor=black">
+<img src="https://img.shields.io/badge/EDA_CODE-green?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/andrealopezp/BankAnalysis/blob/main/Bank_Segmentation.ipynb" target="_blank">
+<img src="https://img.shields.io/badge/SEGMENTATION_CODE-green?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p><strong>Explore customer behaviour on an online bank</strong> - You will uncover insights through <strong>data cleaning</strong>, <strong>customer segmentation</strong>, and a purchase propensity model. This project culminates in proposing targeted marketing strategies to help the company maximize its customer base and drive profitability.</p>
