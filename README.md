@@ -3,14 +3,13 @@
 </div>
 
 ## ✍🏻 About Me 
-- 👩🏻‍🎓 I’m currently pursuing a Master's degree in Data Science & AI.
-- 🚀 Aspiring Data Analyst with a passion for Data Science and Machine Learning.
-- 💼 Looking for opportunities to apply data-driven solutions and insights.
+- 👩🏻‍🎓🚀 Aspiring Data Analyst with a passion for Data Science and Machine Learning.
+- 💼 Currently looking for opportunities to apply data-driven solutions and insights.
 
 ## 💻 Tech Stack
 - **Programming Languages**: Python, SQL
-- **Data Analysis**: Pandas, NumPy, Scikit-Learn, IBM Cognos Analytics
-- **Data Visualization**: Matplotlib, Seaborn, Tableau, Power BI, IBM Cognos Analytics
+- **Data Analysis**: Pandas, NumPy, Scikit-Learn, IBM Cognos Analytics, Microsoft Excel
+- **Data Visualization**: Matplotlib, Seaborn, Tableau, Power BI, IBM Cognos Analytics, Microsoft Excel
 - **Machine Learning**: TensorFlow, Keras, IBM Watson Studio
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, Jupyter Notebooks
@@ -74,5 +73,18 @@ Feel free to connect with me. 😊
                                                                                       
 </td>
                                                                                                                                    
+<td width="50%" style="vertical-align: middle; text-align: center;">
+<h3 align="center">Coffee Retail Market Overview</h3>
+<div align="center">                                       
+<a href="https://github.com/andrealopezp/CoffeeAnalysis" target="_blank"><img src="https://coffeelounge.delonghi.com/wp-content/uploads/2021/01/hero-scaled.jpg" style="width: 400px; height: 300px; object-fit: cover; alt="Data Cleaning & Dashboard"></a>
+<p>
+<a href="https://github.com/andrealopezp/CoffeeAnalysis/blob/main/coffee_analysis.xlsx" target="_blank">
+<img src="https://img.shields.io/badge/EXCEL-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p><strong>Explore the coffee retail market</strong> - Yellow Zen dataset contains information on coffee orders, customer profiles, and product details from 2019 to 2022. Unveil key insights such as popular products, customer preferences, and regional variance with an <strong>interactive dashboard (in Excel)</strong> to adjust pricing, enhance marketing efforts, and improve customer engagement.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
 </table>
 <br>
